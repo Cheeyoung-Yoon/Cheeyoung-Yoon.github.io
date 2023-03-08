@@ -27,11 +27,11 @@ baseurl: ""
 
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
-heading: 윤치영메모장 # Change this 
+heading: 윤치영의 메모장 # Change this 
 content: Obsidian ready Jekyll Theme
 copyright:  
-  year: © 2022
-  msg: Contents under CC-BY-NC 
+  year: © 2023
+  msg: Contents under YCY partheta 
 
 # Set title and content for private & broken link tooltop
 privatelinks:
@@ -96,6 +96,7 @@ defaults:
     values:
       layout: Post
       content-type: notes
+      
 
 
 # Exclude from processing.
