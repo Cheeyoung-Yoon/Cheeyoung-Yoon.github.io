@@ -1,14 +1,11 @@
 
 ---
 
-title: 테스트 페이지
-feed: hide
-date: 11-05-2022
-permalink: /credits
-format: list
+title : test page
+feed: show
+date : 01-02-2021
 
 ---
-
 
 # This is the test page 
 [[linktest]]
